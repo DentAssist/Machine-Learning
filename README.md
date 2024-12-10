@@ -46,6 +46,18 @@ Dari 5 kelas penyakit gigi dengan distribusi masing-masing kelas sebagai berikut
     - Layer output `Dense` dengan 5 unit dan aktivasi softmax untuk klasifikasi multi-kelas.
 
 ## Grafik Akurasi dan Loss 
+<img src="https://github.com/DentAssist/Machine-Learning/blob/main/images/grafik.png" width="700">
+
+## Predict
+| No | True                          | Predicted                      |
+|----|-------------------------------|--------------------------------|
+| 1  | Calculus                      | Calculus                        |
+| 2  | Caries                        | Caries                    |
+| 3  | Healthy_Tooth                 | Healthy_Tooth             |
+| 4  | Hypodontia                    | Hypodontia  |
+| 5  | Mouth_Ulcer                   | Mouth_Ulcer  |
+
+
 
 
 
