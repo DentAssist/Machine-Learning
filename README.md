@@ -70,3 +70,9 @@ Dari 5 kelas penyakit gigi dengan distribusi masing-masing kelas sebagai berikut
 | 3   | Healthy_Tooth | Healthy_Tooth |
 | 4   | Hypodontia    | Hypodontia    |
 | 5   | Mouth_Ulcer   | Mouth_Ulcer   |
+
+## Collaborator
+Made with ❤️ by Breeze Machine Learning Team
+- Addin Hadi Rizal
+- Chofifatul Hidayah
+- Denisa Dwi Nanjalina
