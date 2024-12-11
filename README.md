@@ -97,7 +97,7 @@ Dari 5 kelas penyakit gigi dengan distribusi masing-masing kelas sebagai berikut
 Replace `YOUR_PATH` with the actual path to your saved model.
 
 ## Collaborator
-Made with ❤️ by Breeze Machine Learning Team
+Made with ❤️ by DentAssist Machine Learning Team
 - Addin Hadi Rizal
 - Chofifatul Hidayah
 - Denisa Dwi Nanjalina
