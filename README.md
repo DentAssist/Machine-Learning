@@ -1,5 +1,5 @@
 # DentAssist
-
+**DentAssist:** A system for detecting diseases of the mouth and teeth.
 ## Detecting your mouth and teeth diseases
 
 Kriteria tambahan yang kami kerjakan :
